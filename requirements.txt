@@ -5,4 +5,4 @@ langchain-ollama
 chromadb
 pypdf
 docx2txt
-sqlite3
+sentence-transformers
